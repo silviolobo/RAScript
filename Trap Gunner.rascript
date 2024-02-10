@@ -252,7 +252,7 @@ damagelessRivalCheevo("You Were a Fine Lieutenant!", "John Bishous", "Dyn")
 damagelessRivalCheevo("Unscathed Vendetta", "Tenrou Ugetsu", "Elg")
 
 achievement(
-        title = "-----Different color",
+        title = "Fashion Forward",
         points = 3,
         description = "Unlock and play with any of the extra costume",
         trigger =   Screen == ScreenList["Battle"] &&
